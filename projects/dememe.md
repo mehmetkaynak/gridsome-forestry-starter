@@ -1,7 +1,7 @@
 ---
 date: 2022-02-01
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
-title: dememe
+title: deneme
 categories:
 - asd
 project_bg_color: "#F90000"
